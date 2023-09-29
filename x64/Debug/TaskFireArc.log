@@ -1,0 +1,3 @@
+﻿  TaskFireArc.cpp
+D:\C++\TaskFireArc\TaskFireArc\TaskFireArc.cpp(21,139): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  TaskFireArc.vcxproj -> D:\C++\TaskFireArc\x64\Debug\TaskFireArc.exe
